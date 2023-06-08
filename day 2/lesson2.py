@@ -1,0 +1,1 @@
+print("lasha wamalaidze learning in goa")
