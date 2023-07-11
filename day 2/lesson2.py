@@ -3,7 +3,7 @@ name = "Lasha"
 surname = "Tsamalaidze"
 Age = "13"
 height = "158"
-print("height" + "Age")
+print("height" + Age)
 print (name + surname)
 print( 13 + 158)
 print(13 * 158)
